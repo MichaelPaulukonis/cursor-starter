@@ -6,14 +6,14 @@
 
 ---
 
-## Copy This Prompt:
+## Copy This Prompt
 
-```
+```markdown
 I have a project idea that I'd like you to help me turn into a comprehensive Product Requirements Document (PRD). Here's my concept:
 
 [DESCRIBE YOUR IDEA HERE - Be as detailed as possible about the problem, solution, and target users]
 
-Please create a detailed PRD that includes:
+Create a detailed PRD that includes:
 
 ## 1. Executive Summary
 - Brief overview of the product
@@ -71,10 +71,10 @@ For each section, be specific and actionable. Include examples where helpful, an
 
 ---
 
-## Tips for Better Results:
+## Tips for Better Results
 
 - **Include context** about your industry, competition, and market
 - **Mention your resources** (team size, budget, timeline)
 - **Specify your platform** (web, mobile, desktop, etc.)
 - **Reference similar products** that you admire or want to differentiate from
-- **Be clear about scope** - is this an MVP or full product? 
+- **Be clear about scope** - is this an MVP or full product?

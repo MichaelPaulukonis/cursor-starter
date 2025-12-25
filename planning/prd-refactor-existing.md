@@ -6,15 +6,16 @@
 
 ---
 
-## Copy This Prompt:
+## Copy This Prompt
 
-```
-I have existing project requirements/documentation that needs refactoring into a comprehensive, well-structured PRD. Please help me improve and reorganise this content.
+```markdown
+I have existing project requirements/documentation that needs refactoring into a comprehensive, well-structured PRD. Improve and reorganise this content.
 
 Here's my current documentation:
+
 [PASTE YOUR EXISTING REQUIREMENTS/DOCUMENTATION HERE]
 
-Please refactor this into a professional PRD with the following improvements:
+Refactor this into a professional PRD with the following improvements:
 
 ## Analysis & Feedback
 First, provide feedback on the current documentation:
@@ -60,15 +61,15 @@ Then create an improved version with:
 - Identify and add any missing critical sections
 - Suggest additional research or validation needed
 
-Please highlight the key changes you've made and explain your reasoning for major restructuring decisions.
+Highlight the key changes you've made and explain your reasoning for major restructuring decisions.
 ```
 
 ---
 
-## Tips for Better Results:
+## Tips for Better Results
 
 - **Include all context** - paste your entire existing document
 - **Mention specific concerns** you have about the current version
 - **Specify your audience** - who will be reading this PRD?
 - **Note any constraints** that weren't captured in the original
-- **Ask for specific feedback** on areas you're unsure about 
+- **Ask for specific feedback** on areas you're unsure about

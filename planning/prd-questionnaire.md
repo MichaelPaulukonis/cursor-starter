@@ -6,10 +6,10 @@
 
 ---
 
-## Copy This Prompt:
+## Copy This Prompt
 
-```
-I need help creating a Product Requirements Document (PRD) for my project. Please guide me through this process by asking me targeted questions one section at a time. Wait for my response before moving to the next section.
+```markdown
+I need help creating a Product Requirements Document (PRD) for my project. Guide me through this process by asking me targeted questions one section at a time. Wait for my response before moving to the next section.
 
 Start with these sections in order:
 
@@ -38,17 +38,17 @@ Start with these sections in order:
    - Integration needs?
    - Scalability expectations?
 
-Please ask 2-3 focused questions for each section, then help me synthesise the information into a well-structured PRD format. Make the questions specific and actionable.
+Ask 2-3 focused questions for each section, then help me synthesise the information into a well-structured PRD format. Make the questions specific and actionable.
 
 Let's start with the Problem Statement & Vision section.
 ```
 
 ---
 
-## Tips for Better Results:
+## Tips for Better Results
 
 - **Be specific** about your target users and their pain points
 - **Include examples** of similar products or solutions you admire
 - **Mention constraints** like budget, timeline, or technical limitations
 - **Think about edge cases** and how your solution should handle them
-- **Consider different user types** (admin, end-user, etc.) 
+- **Consider different user types** (admin, end-user, etc.)
