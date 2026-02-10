@@ -30,7 +30,7 @@ I'm encountering a bug/error in my code and need help debugging it systematicall
 
 ## Debugging Request:
 
-Please help me debug this systematically by:
+Debug this systematically by:
 
 ### 1. Problem Analysis
 - Analyse the error message and code to identify potential root causes
@@ -63,13 +63,13 @@ Please help me debug this systematically by:
 - Propose additional testing or monitoring
 
 ## Additional Questions:
-If you need more information to help debug effectively, please ask specific questions about:
+If you need more information to help debug effectively, ask specific questions about:
 - Code structure or data flow
 - Environment setup or configuration
 - User input or data scenarios
 - System state or timing issues
 
-Please be thorough but start with the most likely causes first.
+Be thorough, but start with the most likely causes first.
 ```
 
 ---

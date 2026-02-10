@@ -9,7 +9,7 @@
 ## Copy This Prompt:
 
 ```
-I need help optimizing the performance of my application. Please help me systematically identify bottlenecks and implement performance improvements.
+I need help optimizing the performance of my application. Systematically identify bottlenecks and implement performance improvements.
 
 ## Application Context:
 - **Application Type**: [Web app, API, mobile app, desktop app, etc.]
@@ -26,7 +26,7 @@ I need help optimizing the performance of my application. Please help me systema
 
 ## Performance Optimization Strategy:
 
-Please provide a comprehensive performance optimization plan that covers:
+Provide a comprehensive performance optimization plan that covers:
 
 ### 1. Performance Analysis
 - **Current State Assessment**: Analyze existing performance metrics
@@ -100,7 +100,7 @@ Please provide a comprehensive performance optimization plan that covers:
 
 ## Code-Level Optimizations:
 
-For the code I provide, please analyze and optimize:
+For the code I provide, analyze and optimize:
 - **Algorithm Efficiency**: More efficient algorithms
 - **Data Structure Selection**: Optimal data structures
 - **Loop Optimization**: Efficient iteration patterns
@@ -109,7 +109,7 @@ For the code I provide, please analyze and optimize:
 
 ## Implementation Plan:
 
-Please provide:
+Provide:
 - **Prioritized Optimization List**: High-impact, low-effort improvements first
 - **Before/After Comparisons**: Show performance improvements
 - **Specific Code Examples**: Optimized code implementations
@@ -131,7 +131,7 @@ Please provide:
 
 [PASTE YOUR CODE OR DESCRIBE SPECIFIC PERFORMANCE ISSUES HERE]
 
-Please focus on practical, measurable improvements that provide significant performance gains.
+Focus on practical, measurable improvements that provide significant performance gains.
 ```
 
 ---

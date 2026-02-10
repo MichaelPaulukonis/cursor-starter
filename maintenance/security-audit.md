@@ -9,7 +9,7 @@
 ## Copy This Prompt:
 
 ```
-I need a comprehensive security audit of my application. Please help me identify vulnerabilities, security risks, and provide recommendations for improving security.
+I need a comprehensive security audit of my application. Help me identify vulnerabilities, security risks, and provide recommendations for improving security.
 
 ## Application Context:
 - **Application Type**: [Web app, API, mobile app, desktop app, etc.]
@@ -26,7 +26,7 @@ I need a comprehensive security audit of my application. Please help me identify
 
 ## Security Audit Request:
 
-Please conduct a thorough security assessment covering:
+Conduct a thorough security assessment covering:
 
 ### 1. Authentication & Authorization
 - Review authentication mechanisms
@@ -72,7 +72,7 @@ Please conduct a thorough security assessment covering:
 
 ## Security Assessment Report:
 
-Please provide:
+Provide:
 
 ### Critical Vulnerabilities
 - High-risk security issues requiring immediate attention
@@ -105,7 +105,7 @@ Please provide:
 - Alerting and notification strategies
 
 ## Specific Focus Areas:
-Please pay special attention to:
+Pay special attention to:
 - [Any specific security concerns you have]
 - [Recent security incidents or vulnerabilities you've heard about]
 - [Specific compliance requirements you need to meet]
@@ -116,7 +116,7 @@ Please pay special attention to:
 - Security checklist for ongoing maintenance
 - Recommendations for security tools and processes
 
-Please be thorough but practical, focusing on actionable security improvements that provide the most security value.
+Be thorough but practical, focusing on actionable security improvements that provide the most security value.
 ```
 
 ---

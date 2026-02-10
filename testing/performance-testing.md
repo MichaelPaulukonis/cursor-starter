@@ -9,7 +9,7 @@
 ## Copy This Prompt:
 
 ```
-I need help creating comprehensive performance tests for my application. Please help me design and implement load testing, stress testing, and performance benchmarking strategies.
+I need help creating comprehensive performance tests for my application. Help me design and implement load testing, stress testing, and performance benchmarking strategies.
 
 ## Application Context:
 - **Application Type**: [Web app, API, mobile backend, etc.]
@@ -30,7 +30,7 @@ I need help creating comprehensive performance tests for my application. Please 
 
 ## Performance Testing Strategy:
 
-Please create a comprehensive performance testing plan that includes:
+Create a comprehensive performance testing plan that includes:
 
 ### 1. Testing Strategy Overview
 - Performance testing objectives and success criteria
@@ -104,7 +104,7 @@ Please create a comprehensive performance testing plan that includes:
 
 ## Test Implementation:
 
-Please provide:
+Provide:
 - **Load testing scripts** for major user workflows
 - **Performance test scenarios** with realistic user patterns
 - **Test data generation** strategies for volume testing
@@ -161,7 +161,7 @@ Create specific test scenarios for:
 - **Security Testing**: Performance with security measures
 - **A/B Testing**: Performance comparison between versions
 
-Please provide specific, runnable performance test scripts that I can execute immediately to validate my system's performance under various conditions.
+Provide specific, runnable performance test scripts that I can execute immediately to validate my system's performance under various conditions.
 ```
 
 ---

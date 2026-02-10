@@ -9,7 +9,7 @@
 ## Copy This Prompt:
 
 ```
-I need help generating code for my project. Please create well-structured, production-ready code that follows best practices.
+I need help generating code for my project. Create well-structured, production-ready code that follows best practices.
 
 ## Code Generation Request:
 - **What to generate**: [Component, function, class, API endpoint, etc.]
@@ -25,7 +25,7 @@ I need help generating code for my project. Please create well-structured, produ
 
 ## Code Generation Guidelines:
 
-Please generate code that includes:
+Generate code that includes:
 
 ### 1. Complete Implementation
 - Full, working code that can be used immediately
@@ -60,7 +60,7 @@ Please generate code that includes:
 
 ## Specific Requests:
 
-Based on what I'm generating, please also provide:
+Based on what I'm generating, also provide:
 
 ### For Components (React/Vue/Angular):
 - Props/data interface definitions
@@ -97,7 +97,7 @@ Based on what I'm generating, please also provide:
 - Consider scalability implications
 - Follow the project's existing architecture
 
-Please ask clarifying questions if you need more specific details about the requirements or context.
+Ask clarifying questions if you need more specific details about the requirements or context.
 ```
 
 ---

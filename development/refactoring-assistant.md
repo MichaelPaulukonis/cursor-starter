@@ -9,13 +9,13 @@
 ## Copy This Prompt:
 
 ```
-I have working code that needs refactoring to improve its quality, maintainability, and/or performance. Please help me systematically refactor this code.
+I have working code that needs refactoring to improve its quality, maintainability, and/or performance. Help me systematically refactor this code.
 
 ## Current Code:
 [PASTE YOUR CODE HERE]
 
 ## Refactoring Goals:
-Please check the goals that apply to your situation:
+Check the goals that apply to your situation:
 - [ ] Improve code readability and clarity
 - [ ] Reduce code duplication
 - [ ] Improve performance
@@ -35,7 +35,7 @@ Please check the goals that apply to your situation:
 
 ## Refactoring Analysis:
 
-Please provide:
+Provide:
 
 ### 1. Code Assessment
 - Identify specific code smells and issues
@@ -74,7 +74,7 @@ For each problematic area, provide:
 - Suggest performance improvements
 - Recommend benchmarking approaches
 
-Please focus on practical, actionable improvements that provide clear benefits. Explain the reasoning behind each suggested change.
+Focus on practical, actionable improvements that provide clear benefits. Explain the reasoning behind each suggested change.
 ```
 
 ---

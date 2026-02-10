@@ -9,7 +9,7 @@
 ## Copy This Prompt:
 
 ```
-Please perform a comprehensive code review of the following code. I want detailed feedback on code quality, best practices, potential issues, and suggestions for improvement.
+Perform a comprehensive code review of the following code. I want detailed feedback on code quality, best practices, potential issues, and suggestions for improvement.
 
 [PASTE YOUR CODE HERE OR REFERENCE THE FILES TO REVIEW]
 
@@ -52,14 +52,14 @@ Please perform a comprehensive code review of the following code. I want detaile
 - Could the design be simplified or improved?
 
 ## Feedback Format:
-Please provide:
+Provide:
 - **Critical Issues**: Must-fix problems (security, bugs, etc.)
 - **Major Improvements**: Important code quality issues
 - **Minor Suggestions**: Nice-to-have improvements
 - **Positive Aspects**: What's done well in the code
 - **Refactoring Suggestions**: Specific code improvements with examples
 
-For each issue, please explain the problem and provide a suggested solution or improvement.
+For each issue, explain the problem and provide a suggested solution or improvement.
 ```
 
 ---

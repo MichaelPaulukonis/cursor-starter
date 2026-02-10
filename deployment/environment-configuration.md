@@ -9,7 +9,7 @@
 ## Copy This Prompt:
 
 ```
-I need help setting up comprehensive environment configuration management for my application. Please help me design a robust system for managing settings across different environments.
+I need help setting up comprehensive environment configuration management for my application. Design a robust system for managing settings across different environments.
 
 ## Project Context:
 - **Application Type**: [Web app, API, microservice, mobile backend, etc.]
@@ -30,7 +30,7 @@ I need help setting up comprehensive environment configuration management for my
 
 ## Environment Configuration Strategy:
 
-Please create a comprehensive configuration management system that includes:
+Create a comprehensive configuration management system that includes:
 
 ### 1. Configuration Architecture
 - Overall configuration strategy and principles
@@ -111,7 +111,7 @@ Design configurations for:
 
 ## Implementation Examples:
 
-Please provide:
+Provide:
 - **Configuration file examples** for each environment
 - **Environment variable templates** with descriptions
 - **Secret management setup** (AWS Secrets Manager, Azure Key Vault, etc.)
@@ -139,7 +139,7 @@ If I have existing configuration:
 - Rollback procedures
 - Testing the new configuration system
 
-Please provide specific, implementable examples that I can use immediately across all my environments.
+Provide specific, implementable examples that I can use immediately across all my environments.
 ```
 
 ---

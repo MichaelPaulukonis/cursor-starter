@@ -9,7 +9,7 @@
 ## Copy This Prompt:
 
 ```
-I need help creating comprehensive integration tests for my application. Please help me design and implement tests that verify how different components work together.
+I need help creating comprehensive integration tests for my application. Help me design and implement tests that verify how different components work together.
 
 ## System Context:
 - **Application Architecture**: [Microservices, monolith, serverless, etc.]
@@ -25,7 +25,7 @@ I need help creating comprehensive integration tests for my application. Please 
 
 ## Integration Testing Strategy:
 
-Please create a comprehensive integration testing approach that covers:
+Create a comprehensive integration testing approach that covers:
 
 ### 1. Testing Strategy Overview
 - Integration testing levels and scope
@@ -114,7 +114,7 @@ For each integration point, provide:
 - Test performance monitoring
 - Updating tests with system changes
 
-Please provide specific, runnable test code examples that I can implement immediately.
+Provide specific, runnable test code examples that I can implement immediately.
 ```
 
 ---

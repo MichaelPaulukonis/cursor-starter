@@ -6,10 +6,10 @@
 
 ---
 
-## Copy This Prompt:
+## Copy This Prompt
 
-```
-Please help me create a comprehensive, professional README.md file for my project. I want it to be informative, well-structured, and help users understand and use my project effectively.
+```text
+Create a comprehensive, professional README.md file for my project. I want it to be informative, well-structured, and help users understand and use my project effectively.
 
 ## Project Information:
 - **Project Name**: [Your project name]
@@ -30,7 +30,7 @@ Please help me create a comprehensive, professional README.md file for my projec
 
 ## README Generation Request:
 
-Please create a comprehensive README that includes:
+Create a comprehensive README that includes:
 
 ### 1. Project Header
 - Compelling project title and tagline
@@ -95,15 +95,15 @@ Please create a comprehensive README that includes:
 - Make it scannable with good formatting
 - Include links to relevant external resources
 
-Please make the README engaging and professional, with a focus on helping users understand and adopt the project quickly.
+Make the README engaging and professional, with a focus on helping users understand and adopt the project quickly.
 ```
 
 ---
 
-## Tips for Better Results:
+## Tips for Better Results
 
 - **Be specific about your audience** - technical vs non-technical users
 - **Include actual usage examples** from your codebase
 - **Mention any unique aspects** of your project or domain
 - **Specify the tone** you want - formal, casual, friendly, etc.
-- **Include any existing documentation** that should be referenced 
+- **Include any existing documentation** that should be referenced

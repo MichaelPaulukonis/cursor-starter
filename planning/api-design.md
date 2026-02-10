@@ -9,7 +9,7 @@
 ## Copy This Prompt:
 
 ```
-I need help designing a comprehensive API for my application. Please help me create a well-structured, scalable API design that follows best practices.
+I need help designing a comprehensive API for my application. Help me create a well-structured, scalable API design that follows best practices.
 
 ## Project Context:
 - **Application Type**: [Web app, mobile app, microservice, etc.]
@@ -26,7 +26,7 @@ I need help designing a comprehensive API for my application. Please help me cre
 
 ## API Design Request:
 
-Please create a comprehensive API design that includes:
+Create a comprehensive API design that includes:
 
 ### 1. API Architecture Overview
 - Overall API structure and design patterns
@@ -93,7 +93,7 @@ For each major resource, provide:
 
 ## Specific API Examples:
 
-Please provide concrete examples for:
+Provide concrete examples for:
 - **CRUD operations** for main resources
 - **Complex queries** with multiple parameters
 - **Batch operations** for efficiency
@@ -107,7 +107,7 @@ Please provide concrete examples for:
 - Optimize for developer experience
 - Plan for monitoring and analytics
 
-Please ask clarifying questions if you need more details about specific use cases or technical requirements.
+Ask clarifying questions if you need more details about specific use cases or technical requirements.
 ```
 
 ---

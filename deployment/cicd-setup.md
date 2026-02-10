@@ -9,7 +9,7 @@
 ## Copy This Prompt:
 
 ```
-I need help setting up a CI/CD pipeline for my project. Please help me design and implement automated build, test, and deployment workflows.
+I need help setting up a CI/CD pipeline for my project. Design and implement automated build, test, and deployment workflows.
 
 ## Project Context:
 - **Project Type**: [Web app, API, mobile app, library, etc.]
@@ -33,7 +33,7 @@ I need help setting up a CI/CD pipeline for my project. Please help me design an
 
 ## CI/CD Pipeline Design:
 
-Please create a comprehensive CI/CD setup that includes:
+Create a comprehensive CI/CD setup that includes:
 
 ### 1. Pipeline Strategy
 - Recommend the best CI/CD platform for your setup
@@ -91,7 +91,7 @@ Provide complete, ready-to-use configuration files for:
 - Security configuration checklist
 - Troubleshooting guide
 
-Please provide practical, production-ready configurations that can be implemented immediately.
+Provide practical, production-ready configurations that can be implemented immediately.
 ```
 
 ---

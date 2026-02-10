@@ -9,7 +9,7 @@
 ## Copy This Prompt:
 
 ```
-I need help generating comprehensive tests for my code. Please create a thorough test suite that covers various scenarios and edge cases.
+I need help generating comprehensive tests for my code. Create a thorough test suite that covers various scenarios and edge cases.
 
 ## Code to Test:
 [PASTE YOUR CODE HERE OR DESCRIBE THE FUNCTIONALITY]
@@ -22,7 +22,7 @@ I need help generating comprehensive tests for my code. Please create a thorough
 
 ## Test Generation Request:
 
-Please create:
+Create:
 
 ### 1. Test Strategy Overview
 - Explain the overall testing approach
@@ -66,7 +66,7 @@ Provide:
 - **CI/CD integration** recommendations
 
 ## Test Code Format:
-Please provide:
+Provide:
 - Complete, runnable test code
 - Clear comments explaining complex test logic
 - Setup and teardown code where needed

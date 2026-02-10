@@ -9,7 +9,7 @@
 ## Copy This Prompt:
 
 ```
-I need help creating a comprehensive end-to-end (E2E) testing strategy for my application. Please help me design and implement tests that verify complete user journeys and system workflows.
+I need help creating a comprehensive end-to-end (E2E) testing strategy for my application. Help me design and implement tests that verify complete user journeys and system workflows.
 
 ## Application Context:
 - **Application Type**: [Web app, mobile app, desktop app, etc.]
@@ -26,7 +26,7 @@ I need help creating a comprehensive end-to-end (E2E) testing strategy for my ap
 
 ## E2E Testing Strategy:
 
-Please create a comprehensive E2E testing approach that includes:
+Create a comprehensive E2E testing approach that includes:
 
 ### 1. Testing Strategy Overview
 - E2E testing scope and objectives
@@ -101,7 +101,7 @@ For each major workflow, create:
 
 ## Test Implementation:
 
-Please provide:
+Provide:
 - **Complete test code examples** for major workflows
 - **Page Object Model**: Reusable page components
 - **Test data management** strategies and fixtures
@@ -143,7 +143,7 @@ Please provide:
 - Known issues and workarounds
 - Test execution and debugging guide
 
-Please provide specific, implementable test code that I can run immediately to validate my critical user workflows.
+Provide specific, implementable test code that I can run immediately to validate my critical user workflows.
 ```
 
 ---

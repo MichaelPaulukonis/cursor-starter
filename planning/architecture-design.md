@@ -9,7 +9,7 @@
 ## Copy This Prompt:
 
 ```
-I need help designing the system architecture for my project. Please help me create a comprehensive architecture plan.
+I need help designing the system architecture for my project. Help me create a comprehensive architecture plan.
 
 ## Project Context:
 - **Project Type**: [Web app / Mobile app / API / CLI tool / etc.]
@@ -19,7 +19,7 @@ I need help designing the system architecture for my project. Please help me cre
 
 ## Architecture Design Request:
 
-Please provide a detailed architecture design that covers:
+Provide a detailed architecture design that covers:
 
 ### 1. High-Level Architecture
 - Overall system architecture diagram (describe the components)
@@ -61,7 +61,7 @@ Please provide a detailed architecture design that covers:
 - Dependencies between components
 - MVP vs full implementation considerations
 
-Please be specific about technology choices and provide reasoning for major architectural decisions. Ask clarifying questions if you need more information about requirements or constraints.
+Be specific about technology choices and provide reasoning for major architectural decisions. Ask clarifying questions if you need more information about requirements or constraints.
 ```
 
 ---

@@ -9,7 +9,7 @@
 ## Copy This Prompt:
 
 ```
-I need help creating comprehensive user stories for my project. Please help me convert my requirements into well-written user stories with clear acceptance criteria.
+I need help creating comprehensive user stories for my project. Help me convert my requirements into well-written user stories with clear acceptance criteria.
 
 ## Project Context:
 - **Project Type**: [Web app, mobile app, API, etc.]
@@ -22,14 +22,14 @@ I need help creating comprehensive user stories for my project. Please help me c
 
 ## User Story Creation Request:
 
-Please create user stories that follow this structure:
+Create user stories that follow this structure:
 
 ### Story Format:
 **As a** [user type]  
 **I want** [functionality]  
 **So that** [benefit/value]
 
-### For each user story, please include:
+### For each user story, include:
 
 #### 1. User Story Details
 - Clear, concise story following the standard format
@@ -57,7 +57,7 @@ Please create user stories that follow this structure:
 
 ## User Story Categories:
 
-Please organize stories into these categories:
+Organize stories into these categories:
 
 ### Epic Level Stories
 - Large features that span multiple sprints
@@ -96,7 +96,7 @@ So that I can regain access to my account if I forget my password
 
 ## Additional Considerations:
 
-Please ensure stories are:
+Ensure stories are:
 - **Independent**: Can be developed and tested separately
 - **Negotiable**: Can be discussed and refined
 - **Valuable**: Provide clear business value

@@ -9,7 +9,7 @@
 ## Copy This Prompt:
 
 ```
-I need help selecting the right technology stack for my project. Please provide recommendations based on my requirements and constraints.
+I need help selecting the right technology stack for my project. Provide recommendations based on my requirements and constraints.
 
 ## Project Overview:
 - **Project Type**: [Web app / Mobile app / Desktop app / API / etc.]
@@ -33,7 +33,7 @@ I need help selecting the right technology stack for my project. Please provide 
 
 ## Technology Stack Recommendation:
 
-Please provide:
+Provide:
 
 ### 1. Recommended Stack
 - **Frontend**: Technology and reasoning
@@ -65,7 +65,7 @@ Please provide:
 - Migration paths if requirements change
 - Technology longevity and community health
 
-Please ask clarifying questions if you need more details about any aspect of the project or requirements.
+Ask clarifying questions if you need more details about any aspect of the project or requirements.
 ```
 
 ---
